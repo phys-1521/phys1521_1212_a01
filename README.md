@@ -7,5 +7,7 @@ If you, or your team, requires a GitHub repository for your course project on [P
 * Team member(s)
 * GitHub account name(s)
 
+Please note that your repository will be **private** and will remain visible for upt to 1 year after its creation.
+
 ### GitHub Notes
 The notes for this course can also be found at [PHYS1521](https://allannait.github.io/phys1521/).
