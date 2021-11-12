@@ -1,5 +1,11 @@
 # PHYS1521-OA01 (1212)
 This is a repository for students to work on their course project.
 
-## GitHub Notes
+## Project Repositories
+If you, or your team, requires a GitHub repository for your course project on [PHYS-1521](https://github.com/phys-1521), send an email to your instructor with the following information:
+
+* Team member(s)
+* GitHub account name(s)
+
+### GitHub Notes
 The notes for this course can also be found at [PHYS1521](https://allannait.github.io/phys1521/).
