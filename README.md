@@ -1,4 +1,4 @@
-# PHYS1521-A01 (1212)
+# PHYS1521-A01
 This is a repository for students to work on their course project.
 
 ## Project Repositories
